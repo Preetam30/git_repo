@@ -1,1 +1,1 @@
-# git_repo
+This is new project.
